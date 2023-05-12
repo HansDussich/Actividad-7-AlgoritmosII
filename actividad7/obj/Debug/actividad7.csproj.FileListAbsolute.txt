@@ -1,0 +1,11 @@
+C:\Users\hans2\source\repos\actividad7\actividad7\bin\Debug\actividad7.exe.config
+C:\Users\hans2\source\repos\actividad7\actividad7\bin\Debug\actividad7.exe
+C:\Users\hans2\source\repos\actividad7\actividad7\bin\Debug\actividad7.pdb
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.csproj.AssemblyReference.cache
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.csproj.SuggestedBindingRedirects.cache
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.Form1.resources
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.Properties.Resources.resources
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.csproj.GenerateResource.cache
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.csproj.CoreCompileInputs.cache
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.exe
+C:\Users\hans2\source\repos\actividad7\actividad7\obj\Debug\actividad7.pdb
